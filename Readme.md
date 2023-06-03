@@ -1,0 +1,1 @@
+ npm i express express-graphql graphql mongoose cors colors
